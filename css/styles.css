@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(170, 152, 152);
+}
+.tituloH2 {
+    font-family:cursive;
+    background-color: rgb(91, 155, 134);
+    text-align: center;
+    text-decoration: underline;
+}
+.linkVermas {
+    text-decoration: none;
+    color: black;
+   
+}
+a :hover {
+    color: blue;
+    text-decoration: underline;
+}
+.h2quienes {
+    display: flex;
+    justify-content: center;
+}
