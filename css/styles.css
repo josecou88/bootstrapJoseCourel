@@ -20,3 +20,21 @@ a :hover {
     display: flex;
     justify-content: center;
 }
+.logoinstagram {
+    width: 5vw;
+}
+.palabrasFoot {
+    text-decoration: none;
+    color: rgb(172, 183, 190);
+}
+h2 {
+    text-align: center;
+}
+/* .iFrame {
+    display: flex;
+    justify-content:flex-end;
+} */
+.imgWrapCañada {
+    width: 100%;
+    
+}
