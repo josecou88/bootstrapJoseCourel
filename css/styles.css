@@ -30,10 +30,7 @@ a :hover {
 h2 {
     text-align: center;
 }
-/* .iFrame {
-    display: flex;
-    justify-content:flex-end;
-} */
+
 .imgWrapCañada {
     width: 100%;
     
@@ -45,4 +42,16 @@ h2 {
 .nenaWrap2 {
     width: 40%;
     padding-bottom: 4px;
+}
+.paltaPollo {
+    height: 65vw;
+}
+.argento {
+    height: 65vw;
+}
+.tartaCal {
+    height: 40vw;
+}
+.ensaCes {
+    height: 55vw;
 }
