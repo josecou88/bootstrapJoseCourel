@@ -9,12 +9,18 @@ body {
 }
 .linkVermas {
     text-decoration: none;
-    color: black;
-   
+    color: black; 
 }
 a :hover {
     color: blue;
     text-decoration: underline;
+    cursor: pointer;
+}
+
+.estiloComida {
+    background-color: rgb(95, 77, 77);
+    border-radius: 40px;
+    color: aliceblue;
 }
 .h2quienes {
     display: flex;
@@ -30,14 +36,17 @@ a :hover {
 h2 {
     text-align: center;
 }
-
+.textoQuienes {
+    font-family:cursive;
+    background-color: rgb(91, 155, 134);
+    text-align: center;
+}
 .imgWrapCañada {
     width: 100%;
     
 }
 .nenaWrap {
     text-align: center;
-   
 }
 .nenaWrap2 {
     width: 40%;
